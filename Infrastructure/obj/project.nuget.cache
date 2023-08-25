@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ttSBaW3vV/whgKi+eeBWSyRmBNrIO0SzYNhqspUYFTVs2mdZQN2G1f7NWxkBDGxmjnseYFTv7jqrXGNo9Y55qw==",
+  "dgSpecHash": "gTEEwaRuVeU/pDmRgmpYxApe7b12WxPM7BTK2s7rHlAeKtAm2LuLrCAZj2VQTn9bP5L0vK5FCY3GuciDxkSedA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

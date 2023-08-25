@@ -1,11 +1,11 @@
-using HR.LeaveManagement.Application.DTOs.Common;
-using HR.LeaveManagement.Application.DTOs.LeaveType;
-using HR.LeaveManagement.Application.Models.Identity;
+using LeaveManagement.Application.DTOs.Common;
+using LeaveManagement.Application.DTOs.LeaveType;
+using LeaveManagement.Application.Models.Identity;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace HR.LeaveManagement.Application.DTOs.LeaveRequest
+namespace LeaveManagement.Application.DTOs.LeaveRequest
 {
     public class LeaveRequestListDto : BaseDto
     {

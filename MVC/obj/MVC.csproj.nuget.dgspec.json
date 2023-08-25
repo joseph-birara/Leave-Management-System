@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj": {}
+    "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj": {
+    "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj",
+        "projectUniqueName": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj",
+        "projectPath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\obj\\",
+        "outputPath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "St47pgeLbs8uh+MyLXtc3SS3SeOhl1FJ1pBmBxvA0KwSABqyYF617aQr4Ciz129HBoovxpiOX/zYH1pk4sIG/w==",
+  "dgSpecHash": "FSpTH1DePpodGQm2J0S16qPCVcaRMzd8Ii/JcNOIrjqbZ0W73XLJeQLvygWILjtLP+jSQ5jtyffGXWTHnK6Q3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Identity\\Identity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Identity\\Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

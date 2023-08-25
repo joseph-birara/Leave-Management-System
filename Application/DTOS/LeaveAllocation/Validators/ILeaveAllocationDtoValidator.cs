@@ -1,12 +1,12 @@
 using FluentValidation;
-using HR.LeaveManagement.Application.Contracts.Persistence;
+using LeaveManagement.Application.Contracts.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace HR.LeaveManagement.Application.DTOs.LeaveAllocation.Validators
+namespace LeaveManagement.Application.DTOs.LeaveAllocation.Validators
 {
     public class ILeaveAllocationDtoValidator : AbstractValidator<ILeaveAllocationDto>
     {

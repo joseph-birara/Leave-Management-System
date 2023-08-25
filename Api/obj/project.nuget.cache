@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Qra9UwAtZYJQ7lnaMJQUt0sqgMANFtGzVqwyJXAGqoBePsf0G2FR0hlaAYdeLxLkQvXnplgiLTo7715dOH638A==",
+  "dgSpecHash": "rrvzCGSGLzv/X9Klt+jU4WkNi4aAQYzKa6aemYWPZ9BKLlRc2daQWEMxnAfkFTxB4BGlsdkjjL8kNh3D3tMRPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Api\\Api.csproj",
+  "projectFilePath": "c:\\Users\\josep\\OneDrive\\desktop\\projects\\leaveManagemnt\\Api\\Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

@@ -1,10 +1,10 @@
-using HR.LeaveManagement.Application.DTOs.Common;
-using HR.LeaveManagement.Application.DTOs.LeaveAllocation;
+using LeaveManagement.Application.DTOs.Common;
+using LeaveManagement.Application.DTOs.LeaveAllocation;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace HR.LeaveManagement.Application.DTOs.LeaveAllocation
+namespace LeaveManagement.Application.DTOs.LeaveAllocation
 {
     public class CreateLeaveAllocationDto
     {
